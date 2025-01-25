@@ -53,8 +53,3 @@ This script only for testing purpose, using this script might violates ToS and m
 
 Extension link : [Extension](https://chromewebstore.google.com/detail/teneo-community-node/emcclcoaglgcpoognfiggmhnhgabppkm)
 Dashboard Link : [Dashboard](https://dashboard.teneo.pro/dashboard)
-
-My reff code if you want to use :) : 
-```bash
-ldepa
-```
