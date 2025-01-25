@@ -11,7 +11,7 @@ Teneo bot is a simple tool designed to automate the node interaction.
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/recitativonika/teneo-bot.git
+   git clone https://github.com/pahmi-root/teneo-autorun
    ```
 2. Navigate to the project directory:
    ```bash
